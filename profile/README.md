@@ -4,4 +4,4 @@ Welcome to COSC 416, Intro to Game Development with Unity! This organization wil
 
 ## Resources
 
-- Unity Development Workflow Setup [[ [PDF](https://github.com/UBCO-COSC-416/.github/blob/main/profile/Assets/SetupGuide.pdf) || [Video](https://www.youtube.com/watch?v=4LThE_r1-Pw) ]]
+- Unity Development Workflow Setup [[ [PDF](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/SetupGuide.pdf) || [Video](https://www.youtube.com/watch?v=4LThE_r1-Pw) ]]
