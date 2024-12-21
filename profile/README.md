@@ -7,3 +7,4 @@ You may find all our video guides on our YouTube Channel: [youtube.com/@COSC416]
 ## Resources for 2024 WT2
 
 - Unity Development Setup Guide [[ [PDF](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/UnitySetupGuide.pdf) || [Video](https://www.youtube.com/watch?v=4LThE_r1-Pw) ]]
+- New Project Guide [[ [PDF](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/NewProjectGuide.pdf) || [Video](#) ]]
