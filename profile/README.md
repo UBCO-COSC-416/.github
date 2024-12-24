@@ -9,6 +9,6 @@ You may find all our video guides on our YouTube Channel: [youtube.com/@COSC416]
 | Topic                   | Assignment | PDF Guide                                                                                              | Video Guide                                          |
 | ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
 | Unity Development Setup | N/A        | [PDF](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/UnitySetupGuide.pdf) | [Video](https://www.youtube.com/watch?v=4LThE_r1-Pw) |
-| New Project Guide       | N/A        | [PDF](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/NewProjectGuide.pdf) | Pending Release                                      |
+| New Project Guide       | N/A        | [PDF](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/NewProjectGuide.pdf) | [Video](https://www.youtube.com/watch?v=tIvVajGH7ws) |
 | Roll a Ball Tutorial    | A2         | Pending Release                                                                                        | Pending Release                                      |
 |                         |            |                                                                                                        |                                                      |
