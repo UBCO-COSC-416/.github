@@ -3,7 +3,9 @@
 Welcome to UBCO COSC 416, Intro to Game Development with Unity!
 This organization will serve as a collection of resources, PDF guides, lecture videos, and contain the repositories demonstrated in the lecture videos/guides.
 
-You may find all our video guides on our YouTube Channel: [youtube.com/@COSC416](https://www.youtube.com/@COSC416)
+- You may find all our video guides on our YouTube Channel: [youtube.com/@COSC416](https://www.youtube.com/@COSC416)
+
+- Also you can access the most recent version of the in-class demo projects here: [In Class Demo - Git Repository](https://github.com/UBCO-COSC-416/COSC416_InClass_Demo)
 
 ## Resources for 2024 WT2
 
