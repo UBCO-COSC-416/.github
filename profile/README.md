@@ -24,3 +24,4 @@ This organization will serve as a collection of resources, PDF guides, lecture v
 ## Resources for Retro Twist Game Jam
 
 - [Game Design Document Template](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/RetroGameJamDesignDocumentTemplate.docx)
+- [Retro Twist Game Jam Full Details](https://raw.githubusercontent.com/UBCO-COSC-416/.github/main/profile/Assets/RetroTwistGameJamFullDetails.pdf)
